@@ -1,9 +1,9 @@
 # Famous Sandy Row
-# Heading 1  {#custom-id}
+# Heading 1
 **bold**
-## Heading 2  {#custom-id}
+## Heading 2
 *italic*
-### Heading 3  {#custom-id}
+### Heading 3
 ---
 > block quote
 ---
@@ -36,5 +36,7 @@
   "age": 25
 }
 ```
+---
+: term
 ---
 
