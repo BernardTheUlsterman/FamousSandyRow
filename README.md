@@ -4,31 +4,44 @@
 ## Heading 2
 *italic*
 ### Heading 3
+
 ---
+
 > block quote
+
 ---
+
 1. First
 2. Second
 3. Third
+
 ---
+
 - item 1
 - item 2
 - item 3
+
 ---
+
 `code`
 
 ---
+
 [title](https://www.example.com)
 
 ---
+
 ![alt text](image.jpg)
 
 ---
+
 | table | description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text | 
+
 ---
+
 ```
 {
   "firstName": "John",
@@ -36,12 +49,17 @@
   "age": 25
 }
 ```
+
 ---
+
 : term
 
 ---
+
 ~~The world is flat.~~
+
 ---
+
 - [x] task 1
 - [ ] task 2
 - [ ] task 3
