@@ -73,4 +73,4 @@
 ==sauwichdig!!!==
 
 ---
-H<sub>2</sub>O + O<sup>2</sup> = XO<sup>3</sup>
+H<sub>2</sub>O + O<sup>2</sup> = X<sup>3</sup>
