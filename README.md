@@ -70,7 +70,7 @@
 
 ---
 
-==sauwichdig!!!==
+<mark>sauwichdig!!!</mark>
 
 ---
 H<sub>2</sub>O + O<sup>2</sup> = X<sup>3</sup>
