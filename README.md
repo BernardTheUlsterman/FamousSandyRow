@@ -1,9 +1,9 @@
 # Famous Sandy Row
-# Heading 1
+# Heading 1  {#custom-id}
 **bold**
-## Heading 2
+## Heading 2  {#custom-id}
 *italic*
-### Heading 3
+### Heading 3  {#custom-id}
 ---
 > block quote
 ---
@@ -29,3 +29,12 @@
 | Header | Title |
 | Paragraph | Text | 
 ---
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+---
+
