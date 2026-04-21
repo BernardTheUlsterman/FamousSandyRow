@@ -38,5 +38,12 @@
 ```
 ---
 : term
+
 ---
+~~The world is flat.~~
+---
+- [x] task 1
+- [ ] task 2
+- [ ] task 3
+--- 
 
