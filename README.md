@@ -43,11 +43,9 @@
 ---
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+firstName: John,
+lastName: Smith,
+age: 25
 ```
 
 ---
