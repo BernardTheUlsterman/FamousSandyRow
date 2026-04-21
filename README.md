@@ -5,6 +5,7 @@
 *italic*
 ### Heading 3
 > block quote
+### Heading 3
 1. First
 2. Second
 3. Third
