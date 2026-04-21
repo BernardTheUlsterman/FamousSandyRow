@@ -20,4 +20,9 @@
 [title](https://www.example.com)
 ---
 ![alt text](image.jpg)
-      
+---
+| table | description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
+---
