@@ -19,6 +19,7 @@
 [title](https://www.example.com)
 
 ### Heading 3
+rule
 ---
 ### Heading 3
 ![alt text](image.jpg)
